@@ -1,0 +1,11 @@
+jupyter-book
+jupyterquiz
+matplotlib
+numpy
+pandas
+praw
+discord
+discord-py-interactions
+atproto
+nltk
+nest_asyncio
